@@ -57,8 +57,8 @@ svd =  pickle.load(open('svd.pkl','rb'))
 
 movie_id = pickle.load(open('moviesid.pkl','rb'))
 
-movie_dict = pickle.load(open('movies_dict.pkl','rb'))
-movies = pd.DataFrame(movie_dict)
+#movie_dict = pickle.load(open('movies_dict.pkl','rb'))
+#movies = pd.DataFrame(movie_dict)
 
 
 def decompress_pickle(file):
@@ -69,6 +69,9 @@ def decompress_pickle(file):
 #similarity = pickle.load(open('similarity.pkl','rb'))
 similarity = decompress_pickle('Similarity.pbz2')
 #similarity = pickle.load(open('similarity.pkl','rb'))
+
+movie_dict =decompress_pickle('movies_dict.pbz2')
+movies = pd.DataFrame(movie_dict)
 
 st.title('Movie Recommender')
 
