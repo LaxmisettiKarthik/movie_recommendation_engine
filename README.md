@@ -56,6 +56,31 @@ These are the results for user 2:
 ![image](https://user-images.githubusercontent.com/105920583/172839763-423a5515-69cf-4def-99e2-f3da5d0bc128.png)
 ![image](https://user-images.githubusercontent.com/105920583/172839847-3d954821-fad2-4860-a8b9-308e522aa871.png)
 
+By above examples you can find there are differnt movie recommendations for differnt users.
+
+
+As this Model is deployed using the Streamlit framework in Streamlit Cloud we can use this on the Website as well as Android App by making API requests.
+The interface in Mobile Android App can be viewed in two modes they are:
+1. portrait mode
+
+
+![Screenshot_2022-06-09-17-24-34-24_108946f426b9466a8f9637bfb706458b](https://user-images.githubusercontent.com/105920583/172842915-9fe590e4-67e2-49e9-8f58-564cd062008f.jpg)
+
+
+
+3. Landscape mode
+
+
+![Screenshot_2022-06-09-17-26-18-34](https://user-images.githubusercontent.com/105920583/172843051-2f23fb8e-657e-4e10-8ad7-0d0ffc0a2aeb.jpg)
+
+
+
+these views are fine and good in both views...
+
+The interface on Website can be viewed in this way...
+
+
+![image](https://user-images.githubusercontent.com/105920583/172843161-0cd2babf-cbfa-4a13-ac97-8ec052f88d4c.png)
 
 
 
