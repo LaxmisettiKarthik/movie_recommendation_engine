@@ -30,10 +30,12 @@ In this type of recommendation, the movies are fetched based on the similar movi
 
 *Here we used the COSINE SIMILARITY Algorithm.
 
-This part will look like this for the movie SPIDER MAN:
+# This part will look like this for the movie SPIDER MAN:
 
 
 ![image](https://user-images.githubusercontent.com/105920583/172837289-a280b0f3-42d8-4fae-b4a9-f6c80e88f28b.png)
+
+
 
 # 3. COLLABORATIVE-BASED FILTERING
 
@@ -46,41 +48,55 @@ This part will exactly look like this if two users with different user ids like
  user 2: User Id 98
 will search for the same movie spider-man (Movie name and User ID may be of your desired choice ) 
 
-These are the results for user 1:
+# These are the results for user 1:
 
 ![image](https://user-images.githubusercontent.com/105920583/172839425-e41b48be-e3e6-419f-b9c3-11adc06bc13a.png)
 ![image](https://user-images.githubusercontent.com/105920583/172839523-fc76838a-6b3a-4cc7-af41-d0803e55cbf9.png)
 
-These are the results for user 2:
+# These are the results for user 2:
 
 ![image](https://user-images.githubusercontent.com/105920583/172839763-423a5515-69cf-4def-99e2-f3da5d0bc128.png)
 ![image](https://user-images.githubusercontent.com/105920583/172839847-3d954821-fad2-4860-a8b9-308e522aa871.png)
+
+
+
+
+
+
 
 By above examples you can find there are differnt movie recommendations for differnt users.
 
 
 As this Model is deployed using the Streamlit framework in Streamlit Cloud we can use this on the Website as well as Android App by making API requests.
 The interface in Mobile Android App can be viewed in two modes they are:
-1. portrait mode
+# 1. portrait mode
 
 
 ![Screenshot_2022-06-09-17-24-34-24_108946f426b9466a8f9637bfb706458b](https://user-images.githubusercontent.com/105920583/172842915-9fe590e4-67e2-49e9-8f58-564cd062008f.jpg)
 
 
 
-3. Landscape mode
+
+
+# 3. Landscape mode
 
 
 ![Screenshot_2022-06-09-17-26-18-34](https://user-images.githubusercontent.com/105920583/172843051-2f23fb8e-657e-4e10-8ad7-0d0ffc0a2aeb.jpg)
 
 
 
+
+
+
+
 these views are fine and good in both views...
 
-The interface on Website can be viewed in this way...
+# The interface on Website can be viewed in this way...
 
 
 ![image](https://user-images.githubusercontent.com/105920583/172843161-0cd2babf-cbfa-4a13-ac97-8ec052f88d4c.png)
+
+
 
 
 
