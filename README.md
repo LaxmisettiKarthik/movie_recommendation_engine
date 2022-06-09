@@ -7,7 +7,7 @@ This Python Project is regarding the Algorithms and the sub-topic covers the [Mo
 Let's see each category in detail...
 
 # Popularity
-![This is an image](![image](https://user-images.githubusercontent.com/105920583/172833326-cd787d4d-0c2e-4434-a1c3-b94fd4e4ede1.png))
+![image](https://user-images.githubusercontent.com/105920583/172833326-cd787d4d-0c2e-4434-a1c3-b94fd4e4ede1.png)
 
 
 
