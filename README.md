@@ -30,10 +30,10 @@ In this type of recommendation, the movies are fetched based on the similar movi
 
 *Here we used the COSINE SIMILARITY Algorithm.
 
+This part will look like this for the movie SPIDER MAN:
 
 
-
-
+![image](https://user-images.githubusercontent.com/105920583/172837289-a280b0f3-42d8-4fae-b4a9-f6c80e88f28b.png)
 
 
 
