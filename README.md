@@ -98,6 +98,19 @@ these views are fine and good in both views...
 
 
 
+#Extra features..
+Being deployed in Streamlit it can also allow us to change a few extra aspects as shown in the picture both in Mobile App and on Website
+
+![image](https://user-images.githubusercontent.com/105920583/172844850-fd96ab13-0425-4ed1-a86d-8a02964c8ca2.png)
+
+# We can also mmake the app to view in Wide view
+![image](https://user-images.githubusercontent.com/105920583/172845010-18556f47-05e5-483e-bddd-7e3596f3f7c5.png)
+
+
+
+# We can also chnage the Themes like DARK Mode & LIGHT Mode
+![image](https://user-images.githubusercontent.com/105920583/172845377-73d40030-81a9-4eda-a2b0-e71cac581825.png)
+
 
 
 # Used Python libraries are:
